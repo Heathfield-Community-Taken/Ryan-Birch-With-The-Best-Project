@@ -1,1 +1,1 @@
-print("Hello world from Michael Drury because I'm a god, and very humble")
+print("michael drury")
